@@ -84,3 +84,7 @@ Add the dependency
     String textColor = "#ffffff";          //string
     
     InToast.makeText(this,"This is color changed toast with corner radius changed",textColor ,backgroundColor ,radius,Toast.LENGTH_SHORT);
+    
+    
+# License
+Licensed under the [Apache Licence 2.0](LICENSE).
