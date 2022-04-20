@@ -30,3 +30,57 @@ Add the dependency
 	        implementation 'com.github.rahul7400:InToast:latest-release'
 	}
 
+
+# Kotlin
+
+**Normal/Default Toast**
+
+    InToast.makeText(this,"This is normal toast",Toast.LENGTH_SHORT)
+
+**Background and text color changing toast**
+
+    val backgroundColor = "#C51162"    //string
+    val textColor = "#ffffff"          //string
+    
+    InToast.makeText(this,"This is color changed toast",textColor ,backgroundColor,Toast.LENGTH_SHORT)
+
+**Corner Radius Changing toast**
+
+    val radius = 100f   //double
+    InToast.makeText(this,"This is corner radius changed toast ",radius,Toast.LENGTH_SHORT)
+
+**Both Color Changing and radius changing toast**
+
+    val radius = 100f                  //double
+    val backgroundColor = "#C51162"    //string
+    val textColor = "#ffffff"          //string
+    
+    InToast.makeText(this,"This is color changed toast with corner radius changed",textColor ,backgroundColor ,radius,Toast.LENGTH_SHORT)
+
+
+
+# Java
+
+**Normal/Default Toast**
+
+    InToast.makeText(this,"This is normal toast",Toast.LENGTH_SHORT);
+
+**Background and text color changing toast**
+
+    String backgroundColor = "#C51162";    //string
+    String textColor = "#ffffff";         //string
+    
+    InToast.makeText(this,"This is color changed toast",textColor ,backgroundColor,Toast.LENGTH_SHORT);
+
+**Corner Radius Changing toast**
+
+    double radius = 100f;   //double
+    InToast.makeText(this,"This is corner radius changed toast ",radius,Toast.LENGTH_SHORT);
+
+**Both Color Changing and radius changing toast**
+
+    double radius = 100f ;                 //double
+    String backgroundColor = "#C51162";    //string
+    String textColor = "#ffffff";          //string
+    
+    InToast.makeText(this,"This is color changed toast with corner radius changed",textColor ,backgroundColor ,radius,Toast.LENGTH_SHORT);
