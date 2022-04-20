@@ -6,16 +6,16 @@
 
 
 <img src="images/1.jpeg" width="250">
-This is the normal/default toast.<br>
+<b>This is the normal/default toast.</b>
 
 <img src="images/2.jpeg" width="250">
-This is the toast with background and text color changed.<br>
+<b>This is the toast with background and text color changed.<b>
 
 <img src="images/3.jpeg" width="250">
-This toast toast has corner radius changed.<br>
+<b>This toast toast has corner radius changed.</b>
 
 <img src="images/4.jpeg" width="250">
-This is toast has both color as well as corner radius changed.<br>
+<b>This is toast has both color as well as corner radius changed.</b>
 
 # Configure your project
 **Step 1 :**
