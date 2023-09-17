@@ -1,6 +1,23 @@
 
-# InToast❤
+# Instagram Toastify Android❤
 **A simple customizable toast for android developers.**
+
+*Key Features:*
+
+🚀 Easy Integration: Seamlessly integrate Instagram-style toasts into your web app with just a few lines of code.
+
+🎨 Customizable: Customize the appearance, animations, and behavior of toasts to match your project's branding and style.
+
+⏱️ Timed or Manual Control: Display toasts for a specific duration or allow users to dismiss them manually.
+
+📸 Rich Content: Embed images, icons, and interactive elements within your toasts for informative and engaging notifications.
+
+🔄 Callbacks: Implement callback functions to handle user interactions or toast lifecycle events.
+
+🌐 Cross-browser Compatibility: Works smoothly on all modern browsers, ensuring a consistent user experience.
+
+📦 Lightweight: Keep your web app fast and responsive with minimal library overhead.
+
 
 # Preview🎉
 
