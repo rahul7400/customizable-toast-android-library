@@ -14,9 +14,7 @@
 
 🔄 Callbacks: Implement callback functions to handle user interactions or toast lifecycle events.
 
-🌐 Cross-browser Compatibility: Works smoothly on all modern browsers, ensuring a consistent user experience.
-
-📦 Lightweight: Keep your web app fast and responsive with minimal library overhead.
+📦 Lightweight: Keep your android app fast and responsive with minimal library overhead.
 
 
 # Preview🎉
